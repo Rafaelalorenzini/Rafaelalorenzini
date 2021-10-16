@@ -1,6 +1,5 @@
 # Hi, I am Rafaela
 
-I am recent engineering graduate looking for opportunities and collabaration in projects related to data science and machine learning.
 
 
 
