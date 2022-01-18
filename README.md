@@ -9,3 +9,6 @@
 # ⚡ GitHub Stats
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelalorenzini&layout=compact)](https://github.com/rafaelalorenzini/github-readme-stats)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rafaelalorenzini&hide=contribs,prs)
+
