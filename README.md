@@ -8,4 +8,4 @@
 
 # ⚡ GitHub Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelalorenzini&layout=compact)](https://github.com/rafaelalorenzini/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelalorenzini)](https://github.com/rafaelalorenzini/github-readme-stats)
